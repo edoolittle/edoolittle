@@ -2,6 +2,8 @@
 
 Associate Professor of Mathematics at First Nations University of Canada, and long-time user of and contributor to free software.
 
+![th-602939772](https://github.com/edoolittle/edoolittle/assets/11757669/f38536dc-3466-471e-8779-8c5d508c614e)
+
 <!--
 **edoolittle/edoolittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
