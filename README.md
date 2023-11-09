@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Associate Professor of Mathematics at First Nations University of Canada, and long-time user of and contributor to free software.
+
 <!--
 **edoolittle/edoolittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
